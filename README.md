@@ -16,7 +16,7 @@ El script realiza las siguientes acciones:
 
 1. Comprueba si la carpeta está oculta verificando la existencia de la carpeta renombrada "Control Panel.{21EC2020-3AEA-1069-A2DD-08002B30309D}".
 2. Si la carpeta está oculta, pide al usuario que ingrese una contraseña para mostrarla.
-3. Si el usuario ingresa la contraseña correcta ("02052017"), el script cambia los atributos de la carpeta para mostrarla nuevamente.
+3. Si el usuario ingresa la contraseña correcta ("00100100"), el script cambia los atributos de la carpeta para mostrarla nuevamente.
 
 ## Uso del script
 
